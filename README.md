@@ -1,5 +1,5 @@
 ## What is in this repository?
-This is project in progress.
+This is project in progress, improvement over the first project described in my  [previous project repository](https://github.com/jaromir-sukuba/nvm). 
 ![Outside view](/media/overall.jpg?raw=true)
 
 ## How it is better than the NVM1?
